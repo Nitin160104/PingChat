@@ -3,6 +3,7 @@ PingChat is a full-stack real-time chat application built using the MERN stack a
 
 
 🛠 Tech Stack
+
 Frontend: React.js, Chakra UI, Axios
 
 Backend: Node.js, Express.js
